@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>N185</Machine>
+    <WindowsUser>kevin.pham</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c469cde9-4155-4bc6-b20f-52475b880a49</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7F5D569DDE6468959047C1DE4843E3F3F72E8918F40B2B3FEA6DD800CBF9180F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c469cde9-4155-4bc6-b20f-52475b880a49_1.0.0.0_neutral__vd8mgcg9j3896</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c469cde9-4155-4bc6-b20f-52475b880a49_vd8mgcg9j3896!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c469cde9-4155-4bc6-b20f-52475b880a49</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kevin.pham</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-02T10:08:23.679</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\bin\Debug\CredentialLockerExample.exe">
+      <PackagePath>CredentialLockerExample.exe</PackagePath>
+      <Modified>2015-02-02T10:18:07.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2015-02-02T09:35:25.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2015-02-02T09:35:25.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2015-02-02T09:35:25.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2015-02-02T09:34:09.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-02T09:38:54.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\bin\Debug\Views\LoginPage.xbf">
+      <PackagePath>Views\LoginPage.xbf</PackagePath>
+      <Modified>2015-02-02T10:17:46.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2015-02-02T10:17:46.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\bin\Debug\CredentialLockerExample.xr.xml">
+      <PackagePath>CredentialLockerExample.xr.xml</PackagePath>
+      <Modified>2015-02-02T10:17:46.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin.pham\Documents\Visual Studio 2013\Projects\CredentialLockerExample\CredentialLockerExample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-02T10:18:07.507</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
